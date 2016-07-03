@@ -1,0 +1,29 @@
+#stopWatchBox{
+    float:left;  
+    width: 20px;
+    height: 20px;
+    margin-top:5px;
+	margin-left:10px !important;
+    border: 1px solid black;
+}
+
+#stopWatchStart{
+    background:green;
+    height:100%;
+    width:100%
+}
+
+#stopWatchStop{
+    background:red;
+    height:100%;
+    width:100%
+}
+
+#widget_dijit_form_MappedTextBox_0{
+	float:left !important;
+}
+
+
+div[data-dojo-attach-point=_noEnterStartAndEndSection] > div{
+    float:left !important;
+}
